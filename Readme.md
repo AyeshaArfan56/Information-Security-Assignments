@@ -1,5 +1,3 @@
-
-````markdown
 # 🔐 CS-460 Information Security – Assignment Repository
 
 This repository contains all three assignments submitted for the **CS-460 Information Security** course. These assignments provide practical experience in core areas of information security such as vulnerability analysis, password policies, classical encryption techniques, and AES key expansion using Python.
@@ -71,4 +69,5 @@ This assignment demonstrates implementation of the **AES key expansion phase**, 
 - **Round Constants (RCon)**: Generates the round constant values for each round.  
 
 These functions help produce **44 4-byte words** from a given **128-bit AES key** for round-based encryption.
+
 
